@@ -10,16 +10,10 @@
 
 ### FrontEnd:
 ![My Skills](https://skillicons.dev/icons?i=css,javascript,html,figma,bootstrap,react,redux,jquery&perline=8)
-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### BackEnd:
-<div align="center">
-  
-![My Skills](https://skillicons.dev/icons?i=c,php,postgres,mysql,java,nodejs,laravel&perline=7) <br/>
+![My Skills](https://skillicons.dev/icons?i=c,php,postgres,mysql,java,nodejs,laravel,py&perline=8) <br/>
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-</div>
 
 ### Sistemas Operacionais:
 ![My Skills](https://skillicons.dev/icons?i=linux,windows&perline=2)
@@ -33,7 +27,8 @@
 ![My Skills](https://skillicons.dev/icons?i=visualstudio,pycharm&perline=2)
 
 ### Software:
-![My Skills](https://skillicons.dev/icons?i=figma,git,github&perline=2)
+![My Skills](https://skillicons.dev/icons?i=figma,git,github&perline=3)<br>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -51,7 +46,7 @@
 
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 <div align="center">
 
   "Para uma mente ampla, nada é pequeno. / For a broad mind, nothing is small." - Sherlock Holmes
