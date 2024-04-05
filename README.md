@@ -4,15 +4,19 @@
 </div>
 
 ## 🌐 Socials:
+<div align="center">
+  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/theuseng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusmrn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theuseng) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/theuseng) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theuseng) 
+
+</div>
 
 ## 💻 Tech Stack:
 
 ### FrontEnd:
-![My Skills](https://skillicons.dev/icons?i=css,javascript,html,bootstrap,jquery&perline=8)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery&perline=8)
 
 ### BackEnd:
-![My Skills](https://skillicons.dev/icons?i=c,php,postgres,mysql,laravel,py&perline=8) <br/>
+![My Skills](https://skillicons.dev/icons?i=c,py,postgres,php,laravel&perline=8) <br/>
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Sistemas Operacionais:
