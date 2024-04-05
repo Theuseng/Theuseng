@@ -3,6 +3,14 @@
 Áreas de atuação/Areas Of Expertise: <br>- ⌨️ Desenvolvedor Full-stack Júnior / Junior full-stack developer<br>- 📂 Estudante de Engenharia de Software / Software Engineering Student<br>- 📚 Estudante de Análise e desenvolvimento de sistemas / Systems Analysis and Development Student<br>- 🔐 Analista de segurança da informação / information security analyst
 </div>
 
+### ✍️ Quote
+<div align="center">
+
+  "Para uma mente ampla, nada é pequeno. / For a broad mind, nothing is small." - Sherlock Holmes
+
+
+</div>
+
 ## 🌐 Socials:
 <div align="center">
   
@@ -47,14 +55,6 @@
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Theuseng&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-### ✍️ Quote
-<div align="center">
-
-  "Para uma mente ampla, nada é pequeno. / For a broad mind, nothing is small." - Sherlock Holmes
-
 
 </div>
 
