@@ -39,7 +39,7 @@
 ![My Skills](https://skillicons.dev/icons?i=visualstudio,pycharm&perline=2)
 
 ### Ferramentas / Softwares:
-![My Skills](https://skillicons.dev/icons?i=figma,git,github&perline=3)<br>
+![My Skills](https://skillicons.dev/icons?i=figma,git,github,nodejs&perline=4)<br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
