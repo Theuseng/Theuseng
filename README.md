@@ -25,7 +25,10 @@
 
 ### BackEnd:
 ![My Skills](https://skillicons.dev/icons?i=c,py,postgres,php,laravel&perline=8) <br/>
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <img src="https://github.com/Theuseng/Theuseng/blob/main/TechIcons/apache.svg" alt="Apache" width="48" height="48">
+
+### Banco de dados:
+<img src="https://github.com/Theuseng/Theuseng/blob/main/TechIcons/sqlserver.svg" alt="Sql Server" width="48" height="48"> ![My Skills](https://skillicons.dev/icons?i=postgres)
 
 ### Sistemas Operacionais / Operational systems:
 ![My Skills](https://skillicons.dev/icons?i=linux,windows&perline=2)
