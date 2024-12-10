@@ -1,6 +1,6 @@
 # 💫 Sobre mim / About Me:
 <div align="center">
-Áreas de atuação/Areas Of Expertise: <br>- ⌨️ Desenvolvedor Full-stack Júnior / Junior full-stack developer<br>- 📂 Estudante de Engenharia de Software / Software Engineering Student<br>- 📚 Estudante de Análise e desenvolvimento de sistemas / Systems Analysis and Development Student<br>- 🔐 Analista de segurança da informação / information security analyst
+Áreas de atuação/Areas Of Expertise: <br>- ⌨️ Desenvolvedor Full-stack Júnior / Junior full-stack developer<br>- 📂 Estudante de Engenharia de Software / Software Engineering Student<br>- 📚 Análise e desenvolvimento de sistemas / Systems Analysis and Development<br>- 🔐 Analista de segurança da informação / information security analyst
 </div>
 
 ### ✍️ Citação / Quote
